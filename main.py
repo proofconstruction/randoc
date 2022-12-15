@@ -1,4 +1,4 @@
-from academic import AcademicPaper
+from randoc import AcademicPaper
 from faker import Faker
 import random
 from pdf2image import convert_from_path

@@ -1,0 +1,4 @@
+pylatex
+faker
+pdf2image
+pre-commit
